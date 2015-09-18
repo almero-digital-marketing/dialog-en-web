@@ -1,0 +1,7 @@
+---
+layout: conversion.ect
+title: The quotation for a kitchen
+href: '/kitchens/contract-send'
+lang: en
+message: The quotation is successfully sent
+---
