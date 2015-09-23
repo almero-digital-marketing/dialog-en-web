@@ -1,1 +1,4 @@
+---
+render: false
+---
 # Kitchens Dialog
