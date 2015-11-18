@@ -1,5 +1,5 @@
 ---
-layout: conversion.ect
+layout: /conversion.ect
 title: 'The contract for a kitchen'
 href: '/kitchens/contract-send'
 lang: en

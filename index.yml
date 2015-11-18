@@ -1,4 +1,4 @@
-layout: index.ect
+layout: /index.ect
 href: '/kitchens'
 lang: en
 title: 'Dialog Kitchens'
