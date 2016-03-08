@@ -94,15 +94,15 @@ rfp:
   title: 'Enquiry, quotation and price'
   description: 'In order to make an enquiry, visit the Dialog kitchens shops. After you state your requirements, we will make a 3D design and will determine the price of your kitchen.'
 warranty:
-  title: 'Warrany and service'
+  title: 'Warranty and service'
   description: 'A warranty card is issued for each kitchen. We provide a warranty for the product and a warranty for the service. Dialog services its clients during the warranty period through its specialized repair service.'
   href: '/kitchens/warranty'
 contacts:
   title: 'Contacts:'
-  addressSofia: 'City of Sofia, tel: 0885 29 18 80|139 Tsarigradsko Shose Blvd, fl. 2'
-  addressPlovdiv: 'City of Plovdiv, tel.: 032 62 58 25|48 St Petersburg Blvd'
+  addressSofia: 'City of Sofia, tel: +359 885 29 18 80|139 Tsarigradsko Shose Blvd, fl. 2'
+  addressPlovdiv: 'City of Plovdiv, tel.: +359 32 62 58 25|48 St Petersburg Blvd'
   email: 'dialog@kuhnidialog.bg'
 dialog:
-  link: 'Dialog Kitchens © 2013 All rights reserved'
+  link: 'Dialog Kitchens © 2016 All rights reserved'
 almero:
   link: 'Digital Marketing'
