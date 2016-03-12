@@ -39,7 +39,7 @@ topics:
       - '/kitchens/models/classic/florenza/module-1.jpg'
       - '/kitchens/models/classic/florenza/module-3.jpg'
   -
-    caption: 'Modern technologies in a classic vision. '
+    caption: 'Modern technologies in a classic vision'
     description: 'The beauty of the classic kitchens does not affect the comfort and rational use of space. All modern electrical appliances and mechanisms are also used here. The cupboards are equipped with mechanisms which allow everything you put in them to be tidy and orderly.'
     highlight: 'Functionality|and comfort'
     photos:
@@ -62,7 +62,7 @@ handles:
   description: 'The handles have been perfectly matched to the model as regards shape, size and colour. They are made of brass and painted porcelain, in a retro style, complementing the appearance and vision of the kitchen. Porcelain is exceptionally durable, and it, as well as the metal parts, preserve their appearance over time.'
   categories:
     - 
-      caption: 'Patinated brass and painted porcelain.'
+      caption: 'Patinated brass and painted porcelain'
       photos:
         - '/kitchens/models/classic/florenza/handles/handles-1.jpg'
         - '/kitchens/models/classic/florenza/handles/handles-2.jpg'
